@@ -6,11 +6,17 @@ Welcome to my portfolio website repository! This project showcases my journey, s
 
 Features: 
 User Introduction: A brief, engaging section introducing myself.
+
 Skills Timeline: An elegant timeline highlighting the progression of my skills over the years.
+
 Projects Timeline: A detailed timeline showcasing my projects, complete with descriptions, technologies used, and completion time.
+
 Education Timeline: A separate timeline dedicated to my educational background and milestones.
+
 Project Count & Duration: A dynamic counter displaying the number of projects completed and the total time taken.
+
 Contact Page: A secure contact form with authentication and required fields, ensuring genuine communication.
+
 Message Pop-up: Instant feedback with a message pop-up upon successful form submission.
 
 ![image](https://github.com/POORANI4402/Portfolio/assets/130770609/f4c91cff-6214-4f50-8d20-e71f83a8f369)
